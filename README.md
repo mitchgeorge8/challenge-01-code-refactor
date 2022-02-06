@@ -38,7 +38,7 @@ Recommended web browser [Google Chrome](https://www.google.com/chrome/)
 
 ### Executing program
 
-Click the link to the website [here]()
+Click the link to the website [here](https://mitchgeorge8.github.io/challenge-01-code-refactor/)
 
 ## Help
 
@@ -54,7 +54,7 @@ Whoever wrote the original code for this challenge<br/>
 * 0.2
     * Major refactor to increase accessability
     * Various bug fixes and optimizations
-    * See [commit change]()
+    * See [commit change](https://github.com/mitchgeorge8/challenge-01-code-refactor/commits/main)
 * 0.1
     * Initial Release
 
